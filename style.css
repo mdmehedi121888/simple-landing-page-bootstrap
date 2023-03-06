@@ -1,0 +1,27 @@
+.nav-item a {
+  font-size: 20px;
+}
+.banner {
+  /* background-image: url('image/carousel/'); */
+}
+.img1 {
+  background-image: url("image/carousel/1.jpg");
+  height: 100vh;
+}
+.img2 {
+  background-image: url("image/carousel/2.jpg");
+  height: 100vh;
+}
+.img3 {
+  background-image: url("image/carousel/3.jpg");
+  height: 100vh;
+}
+.item img {
+  width: 160px;
+}
+.team-member {
+  width: 22%;
+}
+.team-member img {
+  height: 150px;
+}
